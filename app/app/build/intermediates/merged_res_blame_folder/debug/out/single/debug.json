@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.nameapp-merged_res-28:/layout_activity_splash.xml.flat",
+        "source": "com.example.nameapp-main-30:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.nameapp-merged_res-28:/layout_activity_main.xml.flat",
+        "source": "com.example.nameapp-main-30:/layout/activity_main.xml"
+    }
+]
